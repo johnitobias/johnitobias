@@ -8,7 +8,7 @@ No momento estou aprendendo HTML, CSS, JS.
 
 
 <div align="center">
-  <a href="https://github.com/joosecj">
+  <a href="https://github.com/johnitobias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnitobias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnitobias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
