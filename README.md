@@ -1,13 +1,13 @@
 ### Oi, eu sou o Johni Tobias!  👋
 
-Atualmente sou analista de infraestrutura, e busco hoje mais conhcimento na area de programação para trocar de carreira.
-
-No momento estou aprendendo HTML, CSS, JS.
+Desenvolvedor Front-End HTML e CSS
 
 
 
 <div align="center" style="display: inline_block"><br>
+  <!--- 
   <img align="center" alt="Johni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  --->
   <img align="center" alt="Johni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Johni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
